@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="left">🎯 Goals</p>
+
+###
+
 ![RodrigoDivinty GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoDivinity&theme=gotham&show_icons=true)
 
 <h2 align="left">I code with</h2>
