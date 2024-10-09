@@ -7,7 +7,7 @@
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_oliver377/)
 
 ![RodrigoDivinty GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoDivinity&theme=gotham&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoDivinity&theme=gotham&show_icons=true&layout=compact)
 
 <h2 align="left">I code with</h2>
 
