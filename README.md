@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="left">🎯 Goals</p>
+<p align="left">📚 I'm currently learning.</p>
 
 ###
 
